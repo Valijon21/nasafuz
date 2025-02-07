@@ -1,0 +1,20 @@
+
+
+
+.card{
+    display: flex;
+    width: 800px;
+    gap: 50px;
+    background-color: antiquewhite;
+    border-radius: 20px;
+    padding: 10px;
+    margin-top: 50px;
+
+}
+
+.card img{
+    width: 400px;
+    height: 200px;
+    border-radius: 20px;
+
+}
